@@ -1,3 +1,1 @@
-# byuk
-
-hellohe
+# Welcome to Byuk's Github
