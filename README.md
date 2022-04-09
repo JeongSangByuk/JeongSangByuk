@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
 
 ### 🤗 Activities
+- 👨‍👧‍👦  **Software Maestro 13th** (2022.04 ~ now) </br>
 - 👨‍👧‍👦  **Sejong Univ. En# 20th** (2020.03 ~ now) </br>
 - 👨‍👧‍👦  **Sejong Univ C, Python TA** (2021.08 ~ 2022.02) </br>
 - 👨‍👧‍👦  **CJ Unit 5th** (2021.08 ~ 2021.12) </br>
-- 👨‍👧‍👦  **SK Sunny 2017** (2017.08 ~ 2017.12) </br>
