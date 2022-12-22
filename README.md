@@ -1,7 +1,7 @@
 # 정상벽 Jeong SangByuk
 
-**🧑🏻‍💻 Web Backend Developer**<br/>
-**🧑🏻‍💻 Department of Software in Sejong Univ**<br/><br/>
+**🙆🏻‍♂️ Web Backend Developer**<br/>
+**🙆🏻‍♂️ Department of Software in Sejong Univ**<br/><br/>
 
 **💻 [Tech Blog](https://velog.io/@jsb100800)**<br/>
 **💻 Skill Stack**
