@@ -13,6 +13,7 @@
 
 <br/>
 
+👨‍👨‍👦‍👦  **Samsung SDS** <sub><sup>Samsung SDS 정규직 / 2023.08 ~ now</sup></sub>   
 👨‍👨‍👦‍👦  **SSG Tech Rookie** <sub><sup>SSG.com BE Tech Intern / 2022.12 ~ 2023.02</sup></sub>   
 👨‍👨‍👦‍👦  **SW Maestro** <sub><sup>국내 SW 인재 육성 프로그램 13기 연수생 / 2022.04 ~ 2022.11</sup></sub>   
 👨‍👨‍👦‍👦  **En#** <sub><sup>세종대 프로그래밍 동아리 20기 멤버 / 2020.03 ~ 2022.08</sup></sub>   
