@@ -3,7 +3,7 @@
 **🙆🏻‍♂️ Web Backend Developer**<br/>
 **🙆🏻‍♂️ Department of Software in Sejong Univ**<br/><br/>
 
-**💻 [Tech Blog](https://blog.byuk.site/)**<br/>
+**💻 [Tech Blog](https://byuk.dev/)**<br/>
 **💻 Skill Stack**
 <img src="https://img.shields.io/badge/Java-003366"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F"/></a>
